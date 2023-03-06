@@ -1,4 +1,4 @@
-# Data-Exploration-on-Covid-cases-around-the-world
+# Data exploration on Covid-19 cases around the world
 
 This data analysis project centers around COVID-19, examining the number of infections, deaths, and vaccinations across countries and time periods. The project involved using a variety of SQL skills, including Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, and Converting Data Types.
 
